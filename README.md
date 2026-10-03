@@ -211,7 +211,7 @@ While in `LISTENING`, Sparky recognises the following commands (substring match,
 ### 1. Clone the repo
 
 ```bash
-https://github.com/helenphilip/VoiceAgent.git
+git clone https://github.com/helenphilip/VoiceAgent.git
 cd VoiceAgent
 ```
 
