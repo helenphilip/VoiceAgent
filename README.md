@@ -211,8 +211,8 @@ While in `LISTENING`, Sparky recognises the following commands (substring match,
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/Braille-Voice-Agent.git
-cd Braille-Voice-Agent
+git clone https://github.com/<your-username>/VoiceAgent.git
+cd VoiceAgent
 ```
 
 ### 2. Install system dependencies
