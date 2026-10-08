@@ -229,6 +229,8 @@ brew install liblouis node python@3.11
 sudo apt-get update
 sudo apt-get install -y liblouis-dev liblouis-bin python3.11 python3.11-venv nodejs npm
 ```
+** Windows **
+https://github.com/zendalona/liblouis-table-editor/blob/main/Prerequisite%20-%20Liblouis%20Installation%20Guide.md
 
 Verify liblouis is installed:
 
