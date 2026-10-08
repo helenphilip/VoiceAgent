@@ -265,13 +265,16 @@ cd ..
 
 ### 6. Environment variables
 
-Copy `.env.example` to `.env.local` and fill in the values:
+Create `.env.local` and fill in the values:
 
 ```bash
-cp .env.example .env.local
+notepad .env.local (needs edit for bash)
 ```
-
+```cmd prompt
+notepad .env.local
+```
 `.env.local` (loaded by `agent.py`, `server.py`, and `db/client.py` via `python-dotenv`):
+
 
 ```dotenv
 # ── LiveKit ─────────────────────────────────────────────
